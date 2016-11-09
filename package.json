@@ -1,0 +1,19 @@
+{
+  "name": "node_express_rest_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "knex": "^0.12.6",
+    "morgan": "^1.7.0",
+    "objection": "^0.6.1",
+    "pg": "^6.1.0"
+  }
+}
